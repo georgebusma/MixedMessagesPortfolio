@@ -1,5 +1,5 @@
 # Mixed Messages Portfolio Project
-<<<<<<< HEAD
+
 ### Project Objectives:
 
 1. Build a message generator program using JavaScript
@@ -12,7 +12,7 @@
 + JavaScript
 + Git and GitHub
 + Command line
-=======
+
 ###Project Objectives:
 *Build a message generator program using JavaScript
 *Use Git version control
@@ -22,4 +22,4 @@
 *JavaScript
 *Git and GitHub
 *Command line
->>>>>>> 039eb04e3c882b63f4a88bcd8d7a9187b6bb8f9c
+
